@@ -1,0 +1,5 @@
+wireless MAC - 802.15.4
+Routing Protocol - DSDV
+Agent+Application - UDP + CBR Traffic
+Node Positioning - Random	
+Flow - Random Source Destination
